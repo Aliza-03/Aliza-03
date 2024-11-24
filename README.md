@@ -4,7 +4,7 @@ I'm a final-year Computer Science student based in Islamabad, Pakistan, with a p
 
 ## 🚀 What I Do
 Developer: I create web and mobile applications using technologies like React, React Native, Flask, and Python. My work focuses on sleek designs, user-friendly interfaces, and impactful solutions.
-Aspiring Data Scientist: I enjoy diving into data, building machine learning models, and creating interactive dashboards for analytics. My recent projects explore clustering, classification, and prediction techniques.
+As an Aspiring Data Scientist: I enjoy diving into data, building machine learning models, and creating interactive dashboards for analytics. My recent projects explore clustering, classification, and prediction techniques.
 #### Cybersecurity Enthusiast: 
 I’ve started my journey in ethical hacking, completing beginner challenges on TryHackMe and working on exciting projects like client-server encryption models.
 ## 🌟 Projects I’m Proud Of

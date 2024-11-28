@@ -29,7 +29,8 @@ I aspire to work with organizations like WWF, UN, UNICEF, or WHO, using my skill
 
 ## My TryHackMe Stats
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3566227" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme-badge-link-generator)](https://tryhackme.com/p/your-profile-id)
+
 🤝 Let’s Connect!
 
 ### Socials

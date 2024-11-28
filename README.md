@@ -27,6 +27,9 @@ My goal is to use technology to make a difference—whether that’s by improvin
 ## 🌍 Aspirations
 I aspire to work with organizations like WWF, UN, UNICEF, or WHO, using my skills to create meaningful global impact.
 
+## My TryHackMe Stats
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3566227" style='border:none;'></iframe>
 🤝 Let’s Connect!
 
 ### Socials

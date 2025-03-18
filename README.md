@@ -1,14 +1,11 @@
 
-## 👋 Hi, I’m Aliza!
-I'm a final-year Computer Science student based in Islamabad, Pakistan, with a passion for blending technology and creativity to solve meaningful problems.
+## 👋 Hey, I’m Aliza!
+I'm a final-year Computer Science student based in Islamabad, Pakistan, with a passion for blending technology and creativity to solve meaningful problems.My journey revolves around building intuitive digital experiences and exploring new horizons in data science, cybersecurity, and software development.
 
 ## 🚀 What I Do
-Developer: I create web and mobile applications using technologies like React, React Native, Flask, and Python. My work focuses on sleek designs, user-friendly interfaces, and impactful solutions.
-As an Aspiring Data Scientist: I enjoy diving into data, building machine learning models, and creating interactive dashboards for analytics. My recent projects explore clustering, classification, and prediction techniques.
-#### Cybersecurity Enthusiast: 
-I’ve started my journey in ethical hacking, completing beginner challenges on TryHackMe and working on exciting projects like client-server encryption models.
-## 🌟 Projects I’m Proud Of
-MedTrove: A mobile app addressing affordable healthcare by offering cost-effective medication alternatives, drug interaction checkers, and secure donations.
+As a Developer: I create web and mobile applications using technologies like React, React Native, Flask, and Python. My work focuses on sleek designs, user-friendly interfaces, and impactful solutions.
+As an apiring Data Scientist: I’m diving deep into data analysis, machine learning, and creating interactive dashboards. My recent projects focus on clustering, classification, and predictive modeling.
+As a CyberSecurity Enthusiast I’m currently exploring ethical hacking and recently completed beginner challenges on TryHackMe. I'm passionate about securing digital systems and learning more about encryption and security models. Currently working on PhishGuard to filter through and detect phishing emails.
 
 ## 💡 Why I Do It
 My goal is to use technology to make a difference—whether that’s by improving accessibility to healthcare, advancing machine learning applications, or securing systems in the digital world.

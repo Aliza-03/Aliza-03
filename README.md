@@ -9,7 +9,7 @@ As a Cybersecurity Enthusiast, I explore web application security through labs, 
 ##  Why I Do It
 My goal is to use technology to make a difference—whether that’s by improving accessibility to healthcare, advancing machine learning applications, or securing systems in the digital world.
 
-🔐 Technical Skills
+## 🔐 Technical Skills
 Languages: Python, JavaScript, C++, C#, Kotlin, Bash
 Web/Mobile: React, React Native, Node.js, MongoDB, MySQL, Flask
 Security Tools: Wireshark, Burp Suite, Metasploit, TryHackMe, Nmap
